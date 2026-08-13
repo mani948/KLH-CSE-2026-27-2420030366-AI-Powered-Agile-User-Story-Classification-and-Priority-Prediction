@@ -6,7 +6,7 @@
 | --------------- | ----------- |
 | G.Manikanta     | 2420030366  |
 | Y.Gowtham       | 2420030522  |
-| M.Mahadev       | 2420030756  |
+| M.Mahidhar      | 2420030756  |
 | M.Arjun Reddy   | 2420030559  |
 
 ## Supervisor
